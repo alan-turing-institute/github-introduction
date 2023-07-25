@@ -24,6 +24,6 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 14. 
 15. 
 16. 
-17. 
+17. Mushrooms
 18. 
 19. 

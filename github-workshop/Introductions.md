@@ -9,7 +9,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 
 1. Cheese
-2. curry
+2. Pepperoni
 3. 
 4. 
 5. 
@@ -22,7 +22,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 12. 
 13. 
 14. 
-15. Chicken
+15. 
 16. 
 17. 
 18. 

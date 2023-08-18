@@ -7,7 +7,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 ## Question: What is your favourite pizza topping?
 
-0. Sophia loves Pizza
+0. test edit line 0
 1. PINEAPPLE - bad
 2. Jalapeños 
 3. mushroom

@@ -9,7 +9,7 @@ Then add your answer to the question beside your corresponding number.
 ## Question: What is your favourite pizza topping?
 1. Prosciutto di Parma
 2. 
-3. 
+3. artichoke
 4. 
 5. 
 6. 

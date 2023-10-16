@@ -19,8 +19,8 @@ Then add your answer to the question beside your corresponding number.
 10. 
 11. 
 12. 
-13. 
-14. 
+13. Anchovies
+14. margherita
 15. 
 16. 
 17. 

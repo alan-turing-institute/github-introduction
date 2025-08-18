@@ -8,22 +8,22 @@ Although we also use open research practices by sharing this repository public f
 
 To learn more about why we recommend creating a `CONTRIBUTING.md` file, please read the [Contributors and Communication Pathways chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-contributors.html) in *The Turing Way* Guide for Project Design.
 
-The **Template** repository is developed for **sessions as part of the _Git Good: Introduction to GitHub_ workshop and follows the practices and reccomendations of [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way)**.
+This **Template** repository is developed for **sessions as part of the _Git Good: Introduction to GitHub_ workshop and follows the practices and reccomendations of [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way)**.
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all of the activities related to this workshop during the summer school.
 
-⭐️ You are acknowledged for all kinds of contributions
+⭐️ You're acknowledged for all kinds of contributions
 ---
 
 In this repository, we use the [All Contributors Bot](https://allcontributors.org/) that help us recognise all contributors, even when they don't directly contribute on the repository.
-You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji-key) representing the types of contribution. 
+You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji-key) representing the types of contributions that you can make. 
 
 To add a contributor, comment on Issue or Pull Request (where the contributor is involved) using this message for @all-contributors:
 `@all-contributors please add @<username> for <keyword in the Type column>`
 
-## Whatever is your availability, there is a way to contribute to this GitHub repository.
+## Whatever your availability is, there is a way to contribute to this GitHub repository.
 
-👋 I'm busy, I only have 5 minute
+👋 I'm busy, I only have 5 minutes
 ---
 
 Look through our currently open [issues](../../issues) to troubleshoot an issue or participate in an ongoing discussion by commenting.
@@ -36,7 +36,7 @@ You can read our [README](./README.md) file to find details and the next milesto
 You can also read any different issues in this repository and comment where you would like to be involved.
 
 
-🛠 I am ready to contribute 
+🛠 I'm ready to contribute 
 ---
 
 - For open tasks in this repository, please see the [Issues section](../../issues).
@@ -62,4 +62,4 @@ and indicate if changes were made) in any reasonable manner, but not in any way 
 licensor endorses you or your use, and with no additional restrictions.
 <!--Replace these sentences to appropriate reflect the license chosen in your project-->
 
-For a more detailed contribution guideline, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
+For more detailed contribution guidelines, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
